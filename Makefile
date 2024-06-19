@@ -12,3 +12,4 @@ filter.o: filter.c
 
 clean:
 	rm -f ./*.o ./pk01_dma
+
