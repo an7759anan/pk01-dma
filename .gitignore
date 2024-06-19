@@ -1,0 +1,5 @@
+*.o
+rpi_adc_dma_test
+samples_dma.txt
+output.txt
+pk01_dma
